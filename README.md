@@ -102,14 +102,14 @@ Each task supports:
 ## 🖼 App UI Screenshots
 
 ### 🔹 Home Screen
-![Home Screen](UI_Scrreenshot/WhatsApp%20Image%202025-07-24%20at%2022.31.24_47b4e57b.jpg)
+![Home Screen](UI_Scrreenshot/UI_home_screen.jpg)
 
 ### 🔹 Set Works UI
-![Set Work Screen](images/set_work_ui.png)
+![Set Work Screen](UI_Scrreenshot/UI_Set_Works.jpg)
 
 ### 🔹 Manage Works UI
-![Manage Work Screen](images/manage_work_ui.png)
-> []*(UI_Scrreenshot/WhatsApp%20Image%202025-07-24%20at%2022.31.24_47b4e57b.jpg)*
+![Manage Work Screen](UI_Scrreenshot/UI_Manage_Woks.jpg)
+
 
 ---
 
@@ -127,5 +127,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## 📫 Contact
 
-For queries or suggestions, feel free to reach out via [GitHub Issues](https://github.com/yourusername/your-repo-name/issues).
+For queries or suggestions, feel free to reach out via [GitHub Issues](https://github.com/Deeprudra04/Dr-Do-app/issues).
 
