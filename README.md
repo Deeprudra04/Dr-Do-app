@@ -1,3 +1,38 @@
+# 📱 Dr. DO — Smart Task Management App
+
+Dr. DO is an intelligent to-do and task management app designed to simplify your daily workflow through a clean UI, smart NLP-powered task parsing, and integrated content management.
+
+---
+
+## 🚀 Features
+
+### 🏁 Entry Interface
+Upon launching the app, users can choose between:
+
+- **➕ Set Works** — to create a new task  
+- **📋 Manage Works** — to view and manage all created tasks
+
+---
+
+## ✍️ Module: Set Works
+
+### A. Manual Assignment
+Users can manually create a task with:
+
+- **Task Title**
+- **Task Description** *(optional)*
+- **Date Picker** (Calendar UI)
+- **Time Picker** (Clock UI)
+- **Reminder Options**:
+  - 🔔 Alarm 10 minutes before the task
+  - 🕓 Notification 1 day before the task
+
+---
+
+### B. Text Command-Based Assignment (Natural Language Input)
+Supports smart text parsing for quick task entry.  
+Example input:
+
 
 Automatically parsed as:
 
