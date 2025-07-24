@@ -99,8 +99,17 @@ Each task supports:
 
 ---
 
-## 📷 Screenshots
-> *(Include screenshots of your UI if available)*
+## 🖼 App UI Screenshots
+
+### 🔹 Home Screen
+![Home Screen](UI_Scrreenshot/WhatsApp%20Image%202025-07-24%20at%2022.31.24_47b4e57b.jpg)
+
+### 🔹 Set Works UI
+![Set Work Screen](images/set_work_ui.png)
+
+### 🔹 Manage Works UI
+![Manage Work Screen](images/manage_work_ui.png)
+> []*(UI_Scrreenshot/WhatsApp%20Image%202025-07-24%20at%2022.31.24_47b4e57b.jpg)*
 
 ---
 
