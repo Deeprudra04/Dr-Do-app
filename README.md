@@ -102,14 +102,14 @@ Each task supports:
 ## 🖼 App UI Screenshots
 
 ### 🔹 Home Screen
-![Home Screen](UI_Scrreenshot/WhatsApp%20Image%202025-07-24%20at%2022.31.24_47b4e57b.jpg)
+![Home Screen](UI_Scrreenshot/UI_home_screen)
 
 ### 🔹 Set Works UI
-![Set Work Screen](images/set_work_ui.png)
+![Set Work Screen](UI_Scrreenshot/UI_Set_Works)
 
 ### 🔹 Manage Works UI
-![Manage Work Screen](images/manage_work_ui.png)
-> []*(UI_Scrreenshot/WhatsApp%20Image%202025-07-24%20at%2022.31.24_47b4e57b.jpg)*
+![Manage Work Screen](UI_Scrreenshot/UI_Manage_Works)
+
 
 ---
 
