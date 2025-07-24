@@ -127,5 +127,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## 📫 Contact
 
-For queries or suggestions, feel free to reach out via [GitHub Issues](https://github.com/yourusername/your-repo-name/issues).
+For queries or suggestions, feel free to reach out via [GitHub Issues](https://github.com/Deeprudra04/Dr-Do-app/issues).
 
