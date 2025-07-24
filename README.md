@@ -108,7 +108,7 @@ Each task supports:
 ![Set Work Screen](UI_Scrreenshot/UI_Set_Works.jpg)
 
 ### 🔹 Manage Works UI
-![Manage Work Screen](UI_Scrreenshot/UI_Manage_Works.jpg)
+![Manage Work Screen](UI_Scrreenshot/UI_Manage_Woks.jpg)
 
 
 ---
