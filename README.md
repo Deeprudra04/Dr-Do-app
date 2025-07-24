@@ -102,13 +102,13 @@ Each task supports:
 ## 🖼 App UI Screenshots
 
 ### 🔹 Home Screen
-![Home Screen](UI_Scrreenshot/UI_home_screen)
+![Home Screen](UI_Scrreenshot/UI_home_screen.jpg)
 
 ### 🔹 Set Works UI
-![Set Work Screen](UI_Scrreenshot/UI_Set_Works)
+![Set Work Screen](UI_Scrreenshot/UI_Set_Works.jpg)
 
 ### 🔹 Manage Works UI
-![Manage Work Screen](UI_Scrreenshot/UI_Manage_Works)
+![Manage Work Screen](UI_Scrreenshot/UI_Manage_Works.jpg)
 
 
 ---
